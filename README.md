@@ -1,1 +1,1 @@
-# diccionario-d-plabras
+# diccionario-d-palabras
